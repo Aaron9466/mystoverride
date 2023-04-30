@@ -1,0 +1,4 @@
+name: apple direct
+desc: apple direct
+rules:
+ - DOMAIN-KEYWORD,apple,DIRECT
